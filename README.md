@@ -1,5 +1,5 @@
 # PrototiposUI-UX_FIGMA
-Contém links de protótipos de UI/UX no FIGMA.
+Contém links de protótipos de UI/UX feitos no FIGMA.
 
 Projeto 1
 https://www.figma.com/file/w3Js7lHmq9vC6MMmtcElMG/Projeto-1?node-id=0%3A3&t=P76aeB4JytWv0HS7-1
